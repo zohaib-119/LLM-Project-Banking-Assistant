@@ -1,0 +1,13 @@
+# Core dependencies for the RAG pipeline
+ollama
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+openpyxl
+
+# Optional (not required for the RAG pipeline)
+# chromadb
+# gradio
+# pymupdf
+# torch
